@@ -1,4 +1,9 @@
-### Hi there 👋
+
+Hi, I'm @yilu-sun.
+
+- 🔭 I’m interested in research and development wih Large Lanague Model(LLMs) Applications. 
+- 🌱 My focus areas incldue Data Science, Machine Learning and Generative AI. 
+- 📫 How to reach me: yiluaq26j@gmail.com
 
 <!--
 **yilu-sun/yilu-sun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
